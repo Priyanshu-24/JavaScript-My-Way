@@ -1,0 +1,7 @@
+1997 - ECMAScript Version 1 (ES1)
+2009 - ES5 with lots of new features
+2015 - ES6 - Biggest update in the history ( also known as modern JS)
+
+We can call ES6 or ES2015
+
+JS is backward compatible but it's not forward compatible
