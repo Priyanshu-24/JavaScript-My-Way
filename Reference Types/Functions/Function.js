@@ -22,3 +22,5 @@ sumThreeNumbers(1, 2, 3);
 // just check syntax for arrow functions with single argument and with single line return statements
 
 console.log(typeof sumTwoNumbers, typeof sumTwo, typeof sumThreeNumbers); // function function function
+
+// study about default parameters, rest parameters
