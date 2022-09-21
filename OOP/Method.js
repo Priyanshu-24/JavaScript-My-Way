@@ -24,3 +24,8 @@ console.log(this); // here this refers to the window object
 console.log(this === window); // true
 
 // window is global object
+
+function X() {
+  console.log(this);
+}
+X(); // this will be defined in this case when we will use strict mode
