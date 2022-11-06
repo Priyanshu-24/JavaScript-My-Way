@@ -1,0 +1,18 @@
+.box {
+  min-height: 100px;
+  min-width: 100px;
+  padding: 50px;
+  cursor: pointer;
+}
+
+#grandparent {
+  background-color: rgb(180, 147, 210);
+}
+
+#parent {
+  background-color: rgb(192, 87, 87);
+}
+
+#child {
+  background-color: rgb(205, 205, 78);
+}
